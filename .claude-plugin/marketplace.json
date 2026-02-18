@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-code-plugins",
+  "name": "kg-claude-plugins",
   "description": "A collection of Claude Code plugins by Kevin Gallaccio",
   "version": "1.0.0",
   "owner": {
