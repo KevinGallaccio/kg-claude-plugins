@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-code-plugins",
+  "description": "A collection of Claude Code plugins by Kevin Gallaccio",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Kevin Gallaccio"
+  },
+  "plugins": [
+    {
+      "name": "pr-merge-announcer",
+      "source": "./pr-merge-announcer",
+      "description": "Generate and post formatted Slack announcements for merged GitHub PRs",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": ["slack", "github", "pr", "announcements"]
+    }
+  ]
+}
