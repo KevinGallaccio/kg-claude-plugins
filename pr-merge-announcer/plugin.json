@@ -1,0 +1,5 @@
+{
+  "name": "pr-merge-announcer",
+  "description": "Generate and post formatted Slack announcements for merged GitHub PRs",
+  "version": "1.0.0"
+}
